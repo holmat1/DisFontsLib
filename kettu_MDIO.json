@@ -1,0 +1,10 @@
+{
+  "spec": 3,
+  "name": "MD IO",
+  "main": {
+    "Regular": "https://github.com/holmat1/DisFontsLib/raw/refs/heads/main/MDIO-Medium.ttf",
+    "Bold": "https://github.com/holmat1/DisFontsLib/raw/refs/heads/main/MDIO-Bold.ttf",
+    "Italic": "https://github.com/holmat1/DisFontsLib/raw/refs/heads/main/MDIO-MediumItalic.ttf",
+    "BoldItalic": "https://github.com/holmat1/DisFontsLib/raw/refs/heads/main/MDIO-BoldItalic.ttf"
+  }
+}
