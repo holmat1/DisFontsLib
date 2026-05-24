@@ -1,10 +1,25 @@
 {
-  "spec": 3,
+  "spec": 1,
   "name": "MD IO",
+  "previewText": "MD IO monospaced font",
   "main": {
-    "Regular": "https://github.com/holmat1/DisFontsLib/raw/refs/heads/main/MDIO-Medium.ttf",
-    "Bold": "https://github.com/holmat1/DisFontsLib/raw/refs/heads/main/MDIO-Bold.ttf",
-    "Italic": "https://github.com/holmat1/DisFontsLib/raw/refs/heads/main/MDIO-MediumItalic.ttf",
-    "BoldItalic": "https://github.com/holmat1/DisFontsLib/raw/refs/heads/main/MDIO-BoldItalic.ttf"
+    "ABCGintoNord-ExtraBold": "https://your-host.com/MDIO-BLACK.TTF",
+    "ggsans-Bold": "https://your-host.com/MDIO-BOLD.TTF",
+    "ggsans-BoldItalic": "https://your-host.com/MDIO-BOLDITALIC.TTF",
+    "ggsans-ExtraBold": "https://your-host.com/MDIO-BLACK.TTF",
+    "ggsans-ExtraBoldItalic": "https://your-host.com/MDIO-BLACKITALIC.TTF",
+    "ggsans-Medium": "https://your-host.com/MDIO-MEDIUM.TTF",
+    "ggsans-MediumItalic": "https://your-host.com/MDIO-MEDIUMITALIC.TTF",
+    "ggsans-Normal": "https://your-host.com/MDIO-REGULAR.TTF",
+    "ggsans-NormalItalic": "https://your-host.com/MDIO-ITALIC.TTF",
+    "ggsans-Semibold": "https://your-host.com/MDIO-SEMIBOLD.TTF",
+    "ggsans-SemiboldItalic": "https://your-host.com/MDIO-SEMIBOLDITALIC.TTF",
+    "NotoSans-Bold": "https://your-host.com/MDIO-BOLD.TTF",
+    "NotoSans-ExtraBold": "https://your-host.com/MDIO-BLACK.TTF",
+    "NotoSans-Medium": "https://your-host.com/MDIO-REGULAR.TTF",
+    "NotoSans-Normal": "https://your-host.com/MDIO-REGULAR.TTF",
+    "NotoSans-NormalItalic": "https://your-host.com/MDIO-ITALIC.TTF",
+    "NotoSans-Semibold": "https://your-host.com/MDIO-SEMIBOLD.TTF",
+    "SourceCodePro-Semibold": "https://your-host.com/MDIO-SEMIBOLD.TTF",
   }
 }
